@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World!</h2>
+<h2> Hi all! Welcome to CI using Jenkins freestyle job, Automation is really fun!!!</h2>
 </body>
 </html>
