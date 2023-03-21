@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2> Hi all! Welcome to CI using Jenkins freestyle job, Automation is really fun!!!</h2>
+	<h2>We are testing webhooks using GitHub and Jenkins!!!! </h2>
 </body>
 </html>
