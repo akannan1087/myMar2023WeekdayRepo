@@ -2,11 +2,6 @@ pipeline {
     agent any
 
     stages {
-        stage('Checkout') {
-            steps {
-                checkout scmGit(branches: [[name: '*/main']], extensions: [], userRemoteConfigs: [[credentialsId: 'a3e740b4-56ec-43ee-9142-9971280be72a', url: 'https://github.com/akannan1087/myMar2023WeekdayRepo']])    
-            }
-        }
         
         stage ("Build") {
             steps {
