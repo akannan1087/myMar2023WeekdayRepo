@@ -4,6 +4,6 @@
 <title>  My WebApp page here..</title>
 </head>
 <body>
-	<h2>We are building Azure Build pipeline in ADO and migrating webapp into Azure Cloud!!!! </h2>
+	<h2>We are building pipeline using YAML, deploying MyWebApp into Azure App services/WebApp!!!! </h2>
 </body>
 </html>
